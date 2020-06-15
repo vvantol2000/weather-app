@@ -1,10 +1,9 @@
 export interface IWeather {
-  city: string;
-  country: string;
-  date: Date;
-  image: string;
-  temperature: number;
-  description: string;
-
+  city: string
+  country: string
+  date: number
+  image: string
+  temperature: number
+  description: string
 }
 
